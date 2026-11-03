@@ -1,0 +1,9 @@
+Frequently Asked Questions(FAQ)
+Question: What industries do you serve?
+Answer:Our AI solutions are versatile and can be customized for industries such as retail, finance, healthcare, manufacturing, and more.
+
+Question: How long does it take to implement an AI solution?
+Answer: Implementation timelines vary based on project complexity, typically ranging from a few weeks to several months.
+
+Question: Do you provide ongoing support after deployment?
+Answer: Yes, we offer continuous monitoring, regular updates, and dedicated support to ensure your AI solutions continue to deliver value over time.

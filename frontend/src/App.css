@@ -1,0 +1,511 @@
+/* Tailwind CSS is used for styling. See index.css for directives. */
+
+.welcome-container button:hover {
+  background-color: #c0392b;
+}
+
+/* Project Dashboard */
+.project-dashboard {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 900px;
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.project-header h1 {
+  margin: 0;
+  color: #333;
+}
+
+.btn-back {
+  padding: 8px 20px;
+  background-color: #95a5a6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-back:hover {
+  background-color: #7f8c8d;
+}
+
+.project-form {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.project-form h3 {
+  margin: 0 0 5px 0;
+  color: #333;
+}
+
+.project-form input,
+.project-form textarea,
+.project-form select {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.project-form input:focus,
+.project-form textarea:focus {
+  outline: none;
+  border-color: #4a90d9;
+}
+
+.upload-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.upload-field label {
+  font-size: 14px;
+  color: #555;
+  font-weight: 500;
+}
+
+.upload-field input[type="file"] {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: white;
+}
+
+.form-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.form-actions button {
+  padding: 10px 24px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.form-actions button[type="submit"] {
+  background-color: #4a90d9;
+}
+
+.form-actions button[type="submit"]:hover {
+  background-color: #357abd;
+}
+
+.btn-cancel {
+  background-color: #95a5a6 !important;
+}
+
+.btn-cancel:hover {
+  background-color: #7f8c8d !important;
+}
+
+/* Project Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-weight: 600;
+  color: #333;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+.project-link {
+  color: #4a90d9;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+
+/* Status Badges */
+.badge {
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.badge-pending {
+  background-color: #fef3cd;
+  color: #856404;
+}
+
+.badge-in-progress {
+  background-color: #cce5ff;
+  color: #004085;
+}
+
+.badge-completed {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+/* Action Buttons */
+.action-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-edit {
+  padding: 6px 14px;
+  background-color: #f39c12;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.btn-edit:hover {
+  background-color: #e08e0b;
+}
+
+.btn-upload {
+  padding: 6px 14px;
+  background-color: #27ae60;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.btn-upload:hover {
+  background-color: #219a52;
+}
+
+.btn-delete {
+  padding: 6px 14px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.btn-delete:hover {
+  background-color: #c0392b;
+}
+
+/* Project Detail View */
+.project-detail {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.project-detail p {
+  margin: 8px 0;
+  color: #555;
+}
+
+/* Upload Form */
+.upload-form {
+  background: #eef6ff;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.upload-form h3 {
+  margin: 0 0 12px 0;
+  color: #333;
+}
+
+.upload-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.upload-row input[type="file"] {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: white;
+}
+
+.upload-row button {
+  padding: 10px 24px;
+  background-color: #27ae60;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.upload-row button:hover {
+  background-color: #219a52;
+}
+
+.upload-row button:disabled {
+  background-color: #95a5a6;
+  cursor: not-allowed;
+}
+
+/* Files Section */
+.files-section {
+  margin-top: 10px;
+}
+
+.files-section h3 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.file-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.file-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  background: #fafafa;
+}
+
+.file-item a {
+  color: #4a90d9;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.file-item a:hover {
+  text-decoration: underline;
+}
+
+.btn-delete-file {
+  padding: 4px 12px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.btn-delete-file:hover {
+  background-color: #c0392b;
+}
+
+.no-files, .no-projects {
+  color: #999;
+  font-style: italic;
+}
+
+.file-thumbnails {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.file-thumbnail {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.file-thumbnail:hover {
+  transform: scale(1.1);
+  border-color: #4a90d9;
+}
+
+.file-doc-link {
+  display: inline-block;
+  padding: 4px 8px;
+  background: #eef6ff;
+  border-radius: 4px;
+  color: #4a90d9;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.file-doc-link:hover {
+  background: #d6eaff;
+  text-decoration: underline;
+}
+
+/* Dashboard Container (Admin / Manager) */
+.dashboard-container {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 900px;
+}
+
+.dashboard-container h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.dashboard-container button {
+  padding: 8px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+/* Welcome Nav Links */
+.nav-links {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-links button {
+  padding: 12px 30px;
+  background-color: #4a90d9;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.nav-links button:hover {
+  background-color: #357abd;
+}
+
+.btn-logout {
+  background-color: #e74c3c !important;
+}
+
+.btn-logout:hover {
+  background-color: #c0392b !important;
+}
+
+.project-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.project-list th,
+.project-list td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.project-list th {
+  background: #f5f5f5;
+  font-weight: 600;
+  color: #555;
+}
+
+.no-projects {
+  text-align: center;
+  color: #999;
+  padding: 30px 0;
+}
+
+.badge {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.badge-pending {
+  background: #fef3cd;
+  color: #856404;
+}
+
+.badge-in-progress {
+  background: #cce5ff;
+  color: #004085;
+}
+
+.badge-completed {
+  background: #d4edda;
+  color: #155724;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 6px;
+}
+
+.btn-edit {
+  padding: 5px 12px;
+  background-color: #f39c12;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.btn-edit:hover {
+  background-color: #e67e22;
+}
+
+.btn-delete {
+  padding: 5px 12px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.btn-delete:hover {
+  background-color: #c0392b;
+}

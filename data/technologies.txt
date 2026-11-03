@@ -1,0 +1,14 @@
+Symtera Technologies uses modern technologies to build
+scalable software systems.
+
+Technologies include:
+
+• Python
+• FastAPI
+• Machine Learning frameworks
+• Cloud platforms
+• Data engineering tools
+• Artificial Intelligence models
+• React/Nextjs
+
+

@@ -1,0 +1,170 @@
+Services:
+Symtera Technologies provides AI services, software development, e-commerce development, SEO/SEM, Social Media, Enterprise cloud services and IT infrastructure.
+
+AI Services at SymteraTech:
+
+At SymteraTech, we harness the transformative power of Artificial Intelligence to drive growth and efficiency in businesses. Our expansive service portfolio includes:
+1- Chatbots
+2- Large Language models
+3- Vision ai
+4- Generative Ai
+5- CRM/ERP Integrations with OTT Services
+6- E-commerce Personalization
+Our mission is to deliver scalable and secure AI solutions that not only meet your current business needs but also prepare you for future challenges in an ever-evolving digital landscape.
+
+Software Development:
+Symtera Technologies has created multiple web, desktop and mobile applications for clients across the globe.
+
+We use open-source, proprietary technologies and framework. Symtera Technologies provides cross platform application for operating systems like Windows, Android, iOS, Linux with excellent performance.
+=>Web Development: 
+We are able to fulfill organizations demands with the help of domain experts and advisory board.
+
+Our team of experts works to provide superior and diverse IT solutions to meet your financial expectations.  We have expertise in software requirements analysis, software design, application re-engineering, content management, customized application development, application maintenance and support through SLAs.
+=>Application Development:
+We can provide software development services to your esteemed organization from requirement gathering, transform these requirements into software requirement specification to design, code and test multitude of customized applications.
+
+=>Mobile Apps Development:
+Smart phones have become an integral our daily lives. Increasingly businesses and users are relying on apps for communication and execution.
+We use latest technologies to design and develop mobile apps. Our mobile team experts are very creative and innovative to create exceptional mobile apps.
+
+E-Commerce Development:
+Innovative E-Commerce Development Services Support and empower your business through online web portals. We use latest technologies, framework and best practices to produce web based applications. We produced broad range of e-commerce web portals and development solutions with excellent features.
+- Unlimited Categories
+- Product Ratings
+- Multiple Tax Rates
+- Information Pages
+- Weight Calculation
+- Content Marketing
+- Search Engine Optimization
+- Unlimited Products
+- Product Reviews
+- Multiple Tax Rates
+- Payment Method
+- Backup & Restore Tools
+- Unlimited Manufacturer
+- Automatic Resizing
+- Related Products
+- Coupon System
+- Printable Invoices
+- Message (SMS) alerts
+
+Search engine optimization(SEO):
+Key Features are given below
+- On and Off Page SEO
+- Web Page Optimization
+- Reporting and Analysis
+- Market Analysis & Keyword Research
+- Competitive Intelligence
+- Website Audit & Optimization
+
+SEO Business Plans:
+- Lite Plan : $499, 50 Keywords Optimization, 20 Main Keywords Optimization, 30 Secondary Keyword Optimization.
+- Mild Plan : $799, 100 Keywords Optimization, 40 Main Keywords Optimization, 60 Secondary Keyword Optimization.
+- Hot Plan : $1149, 200 Keywords Optimization, 100 Main Keywords Optimization, 100 Secondary Keyword Optimization.
+
+You can also visit our website for the SEO Business plans.
+
+Social Media:
+At Symtera, we also provide professional social medial handling of your business accounts.
+
+Social Media Plans:
+- Lite plan: $249, SM Page Optimization,, 20 High Quality Posts Per Month (Per Network), 4 Networks (FB, Twitter, Instagram, Pinterest), Monthly Reporting
+- Mild plan: $349, Facebook Ad Account Setup,, Facebook Ads Creation, Social Media Strategy, Campaign Optimization, Conversion Optimization, Monthly Reporting
+- Hot plan: $549, SM Page Optimization,, 20 High Quality Posts Per Month (Per Network), 4 Networks (FB, Twitter, Instagram, Pinterest), Monthly Reporting
+
+
+You can also visite our website to check the social media plans.
+
+Cloud Services:
+Symtera Technologies has expertise in cloud deployment models like public, private and hybrid. Allowing you to control your precious data while remaining cost-effective.
+- Software as a Service(SaaS)
+- Cloud Services Platforms (CSPs)
+- Integration and Automation Services (IASs)
+Details:
+Saas: Software-as-a-Service (SaaS) are cloud services maintained by vendors and no maintenance is required from your organization. Symtera Technologies helps to deploy SaaS based applications and make them usable with your existing applications.
+
+Cloud Services Platforms (CSPs): Symtera Technologies will help you to select the right platform and relevant services with detailed costing fulfilling your business requirements. We will produce, integrate, and optimize your applications on cloud using Google cloud, AWS, Azure, or Ali Baba Cloud using IaaS and DevOps.
+
+Integration and Automation Services (IASs):Automation and integration of applications reduces precious time, efforts and cost. We help to integrate and automate cloud services and on premise applications through best-fit cloud models.
+
+Cloud Service Deployment and Evaluation:
+Symtera technologies cloud team can help you to evaluate existing systems, software and infrastructure and will provide valuable guidance to your esteemed organization. How you can reduce your IT infrastructure and expensive resources cost?
+We can develop a road map, cost benefit analysis, return over investment and the reason for your cloud adaptability. Our experts, consultants and advisory board member will suggest state of art cloud deployment model, performance, cloud resource sizing, cloud relevant services selection, efficiency, automatic implementation and reliability that will help you to achieve your define goals.
+
+Cloud Enterprise Server:
+Every business needs a versatile hosting services. Cloud hosting is very scalable, reliable and flexible in nature. We can provide cloud hosting services on public cloud and Symtera Technologies Private Cloud (Oracle-Linux base). Following are the cloud server plans.
+- Cloud Server Plans:
+- STC-I,$98.99 Monthly Package(2 CPU, 4 GB RAM, 50 GB Storage, 50 GB Bandwidth, 1 Dedicated IP)
+- STC-II,$148.99 Monthly Package(4 CPU, 8 GB RAM, 100 GB Storage, 100 GB Bandwidth, 1 Dedicated IP)
+- STC-III,$198.99 Monthly Package(4 CPU, 16 GB RAM, 200 GB Storage, 200 GB Bandwidth, 1 Dedicated IP)
+we also provide STC-CUSTOM Monthly Package. You can configure all the required things according to your needs.
+Cloud Migration:
+On-Premise data center and resource becoming more expensive and organizations are reluctant to pay upfront costs and reoccurring IT services cost. We will help you to migrate on premise data center hosted application on cloud services based on your cloud choice. We support you to use cloud Infrastructure-as-a-Service (IaaS) or Platform-as-a-Service (PaaS) to reduce cost with scalability and improve performance.
+	
+
+DevOps:
+Application development and operations are critical part of deployments. We will align development and operation teams to accelerate project delivery through agile and automation processes. Our DevOps engineers can draw a road map and suggest relevant tools and processes for automatic deployments. We will assist your team in automation, integration and deployments with scalability and security.
+
+Disaster Recovery:
+High availability is one of the most crucial requirements of any organization to operate without any interruption. We help you in planning, designing and implementing disaster recovery strategies with cloud based solutions and on premise solutions.
+
+Cloud Management and Support Services:
+Symtera Technologies will help you to select the right platform and relevant services with detailed costing that fulfill your business requirement. We will produce, integrate, and optimize your applications on cloud using Google Cloud, AWS, Azure, and Ali Baba Cloud using IaaS and DevOps through contracts and SLAs.
+
+Linux Hosting:
+Sytera technologies provide Linux hosting.
+Features:
+- cPanel Powered
+- 24/7 Live Support
+- Free SSL Certificates
+- Zero Interruption
+- Secure
+Following are the different plans for hosting.
+- Lite Plan,$4.99, Per Monthly Fee (Yearly Package), 5 GB Storage, 10 Email Accounts, Unmetered bandwidth.
+- Mild Plan,$9.99, Per Monthly Fee (Yearly Package), 10 GB Storage, 20 Email Accounts, Unmetered bandwidth.
+- Hot Plan,$19.99, Per Monthly Fee (Yearly Package), 25 GB Storage, 50 Email Accounts, Unmetered bandwidth.
+- Wild Plan,$29.99, Per Monthly Fee (Yearly Package), 50 GB Storage, 100 Email Accounts, Unmetered bandwidth.
+Window Hosting:
+At Symtera, we also provide window hosting with the following features.
+- Plesk Powered :Plesk is a web hosting and server data center automation software with a control panel developed for Linux and Windows-based retail hosting service providers.
+- 24/7 Live Support
+- Free SSL Certificates
+- Zero Interruption
+- Secure
+Following are the plans for window hosting.
+- Lite Plan,$4.99, Per Monthly Fee (Yearly Package), 5 GB Storage, 10 Email Accounts, Unmetered bandwidth.
+- Mild Plan,$9.99, Per Monthly Fee (Yearly Package), 10 GB Storage, 20 Email Accounts, Unmetered bandwidth.
+- Hot Plan,$19.99, Per Monthly Fee (Yearly Package), 25 GB Storage, 50 Email Accounts, Unmetered bandwidth.
+- Wild Plan,$29.99, Per Monthly Fee (Yearly Package), 50 GB Storage, 100 Email Accounts, Unmetered bandwidth.
+
+
+Shared Hosting with Enterprise Email:
+At symtera, we also provide shared hosting with enterprise email service. Key features include
+- cPanel Powered
+- 24/7 Live Support
+- ActiveSync
+- AntiVirus, AntiSpam
+- File Storage
+Following are the shared hosting with Email plans.
+- Lite Plan,$9.69, Per Monthly Fee (Yearly Package), 5 GB Storage, 10 Email Accounts, Unmetered bandwidth.
+- Mild Plan,$19.69, Per Monthly Fee (Yearly Package), 10 GB Storage, 20 Email Accounts, Unmetered bandwidth.
+- Hot Plan,$29.69, Per Monthly Fee (Yearly Package), 25 GB Storage, 50 Email Accounts, Unmetered bandwidth.
+- Wild Plan,$39.69, Per Monthly Fee (Yearly Package), 50 GB Storage, 100 Email Accounts, Unmetered bandwidth.
+
+
+
+Enterprise Email Solutions:
+Host your corporate email in dedicated servers with our secure cloud-based enterprise email solutions to match your business domain. Email address with your business name helps to present professionalism and strengthen your relationships with customers and business partners. Enterprise-level security ensures the protection of your inboxes from external viruses, spamming, and phishing attacks. Our team of hosting experts is readily available for 24/7 support and promises accurate deliverability of business emails. Our enterprise email hosting plans start from $1.99 per mailbox per month(5GB storage), choose a plan and start building trustworthy relationships.
+Our further plans include:
+- STM10,$2.49 Monthly Package of Per Mailbox.(10GB Storage)
+- STM20,$2.99 Monthly Package of Per Mailbox.(20GB Storage)
+- STM50,$3.49 Monthly Package of Per Mailbox.(30GB Storage)
+
+
+Our Process:
+At SymteraTech, we follow a structured process to ensure your AI solutions are tailored to your business needs and delivered with precision:
+1- Consultation 
+2- Strategy Development
+3- Implementation
+4- Optimization
+5- Ongoing Support

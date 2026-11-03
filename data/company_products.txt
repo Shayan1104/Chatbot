@@ -1,0 +1,79 @@
+Products:
+Symtera Technologies develops innovative technology products
+focused on artificial intelligence, automation, and data-driven
+business systems.
+1- Education ERP
+2- SYMSCAN
+3- Job Management System
+4- Patient Management System
+5- Assets Management System
+
+These products help organizations improve efficiency and
+digital capabilities.
+
+SYMSCAN:
+Cloud based HR software consists of determining the identity of a person. The aim is to capture an item of biometric data from this person. It can be a photo of their face, a record of their voice, or an image of their fingerprint.
+- Access Control : State of the art online attendance management and access control system.
+- Impression Registration : User registration & recognition via thumb impression/image from database.
+- Attendance Timesheet : Timesheet attendance management system for in/out tracking information.
+- HR portal : Multiple schedules per day and complete HR reporting portal to manage.
+
+Features of SYMSCAN:
+- Biometric attendance and payroll management system
+- User registration and identification via thumb impression/image
+- Peripheral testing panel to test devices i.e., Thumb scanner, camera and RFID reader
+- Tracking information about employees and company info
+- Overall company’s total employees record
+- HR reporting tool for reports on Employee active and deactivated statuses (covering all employees).
+- Track Employee’s timesheet attendance
+- Attendance monitoring reports daily, weekly and monthly
+- Customized dashboards for each user
+- Notification to leader about his team daily attendance. It could be via message or can be viewed on supervisor dashboard
+- Attendance reports generated according to departmentally or specific individual record
+- Graphical web presentation e.g., Charts
+
+Job Management System:
+With the job management system (JMS), enterprises can schedule jobs and projects to teams in the office or in the field. Create a new job or task list, schedule dates, and milestones. Furthermore, set up alerts so everyone knows what to do and when to do it. Manage your projects by assigning specific tasks to particular employees based on your hierarchy.
+Key features of JMS:
+- Inventory : Get the stock report with replacement and without replacement. Equipment inventory tracking system provides checkout equipment reports the list of models, sub-models, product types and, price dealing.
+- Reports : Site and Service problem report, Record of principals, contact person, and principal bank details.
+- Customized Portals : On project management software with a client portal, you can categorize users into teams e.g., supervisor, group leaders, engineers and, subordinates, etc. Group leaders create teams and teams are assigned jobs.
+- Jobs Pool : Jobs pool for employees to manage and update progress status on assigned projects or tasks.
+- Hierarchy & Task management : Define different offices and departmental hierarchy with enterprise task management system. Approval requests system for upper management. Control of user privileges.
+- Project management : Launching a startup or a project with limited capital? no problem. Keep a close eye on managing your startups with agile project management solutions to track the time and progress of the individual tasks.
+
+Patient Management System:
+PMS is an efficient cloud-based patient management system with an automated biometric system to manage doctors’ & patients’ databases, diagnoses, prescriptions, clinic records, lab testing dispensary, and inventory. Furthermore, its exceptional key features and reports make it a state-of-the-art patient management solution suitable for every clinic and hospital.
+Its key features are :
+- Track clinical records for patients and doctors
+- Biometric recognition system
+- Token system
+- Archive of medicines
+- Medicine inventory management system
+- General inventory
+- Room allocation for patients
+- Patient test reports maintenance
+- Medicines, diet and advices are prescribed
+- Patient History
+
+Assets Management System: 
+AMS is a cloud-based property management platform that enables businesses to manage commercial, residential and High-rise properties and take complete control of every aspect of their business to sell, lease and its maintenance.
+Features:
+- Tracking records regarding assets and categorized records into basements, floors with its units details
+- Owner and Tenant profiles with customization
+- Unit can be booked against the tenant that’s being registered
+- Payments about cash deposits can be managed and cash collections are automated based on both cash and checks received from tenant
+- Pending cheques can be added, clear as per cash received and notify
+- Payment terms can be done in down payment, installment and rent
+- Payments history i.e. advance payment, due payments, outstanding balance are maintained
+- Full general ledger accounting
+- Ledger transaction reversal
+- Reports: weekly, monthly, annual and total revenue
+- List of defaulters and property status reports are included
+- Dynamically create roles and customize portal as per user’s privileges
+- Notify reminders and alerts on delayed payments
+
+
+
+
+
