@@ -9,3 +9,4 @@ langchain-huggingface>=0.0.1
 sentence-transformers>=2.5.0
 faiss-cpu>=1.8.0
 requests>=2.31.0
+
