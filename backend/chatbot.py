@@ -6,6 +6,7 @@ from backend.vectorstore import get_vectorstore
 # Load env
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 if not GROQ_API_KEY:
     raise ValueError("❌ GROQ_API_KEY not found in .env")
@@ -68,7 +69,7 @@ User Question:
         print("📤 Sending request to GROQ...")
 
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model=GROQ_MODEL,
             messages=[
                 {"role": "system", "content": "You are a smart and professional AI assistant."},
                 {"role": "user", "content": prompt}
